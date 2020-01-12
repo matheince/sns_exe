@@ -9,7 +9,7 @@ fun main(){
     var cls2 = Helloclass(1) // 인수가 전달된 후 호출 됨
     var person = Person(5,"mathience")
 
-    
+
     println(person.age)
     println(person.name)
 
